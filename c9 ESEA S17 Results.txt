@@ -1,0 +1,17 @@
+Home	Away	Map	Result	Score	Date
+Cloud9 HyperX	Area51-Gaming	de_train	Win	16-1	Jul 29 14
+SapphireKelownaDotCom	Cloud9 HyperX	de_train	Win	8-16	Jul 30 14
+Cloud9 HyperX	Manajuma	de_nuke	Win	16-0	Jul 31 14
+NetcodeGuides	Cloud9 HyperX	de_nuke	Loss	16-12	Aug 1 14
+Area51-Gaming	Cloud9 HyperX	de_inferno	Win	4-16	Aug 22 14
+Cloud9 HyperX	Denial CSGO	de_dust2	Loss	1-16	Aug 22 14
+eLevate	Cloud9 HyperX	de_inferno	Win	11-16	Aug 27 14
+Cloud9 HyperX	SapphireKelownaDotCom	de_cache	Win	16-2	Aug 28 14
+Cloud9 HyperX	Reliable	de_mirage	Loss	10-16	Aug 29 14
+Team iBUYPOWER	Cloud9 HyperX	de_dust2	Loss	16-7	Aug 29 14
+Manajuma	Cloud9 HyperX	de_cache	Win	0-16	Sep 1 14
+Cloud9 HyperX	NetcodeGuides	de_season	Win	16-3	Sep 4 14
+Denial CSGO	Cloud9 HyperX	de_season	Loss	16-10	Sep 9 14
+Reliable	Cloud9 HyperX	de_dust2	Rescheduled	Score	Sep 11 14
+Cloud9 HyperX	Team iBUYPOWER	de_dust2	Upcoming	Score	Sep 16 14
+Cloud9 HyperX	eLevate	de_train	Upcoming	Score	Sep 22 14

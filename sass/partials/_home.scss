@@ -1,0 +1,49 @@
+.home {
+	border: 1px solid red;
+    display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 1rem; 
+} 
+
+h1,h2,h3,h4,h5,h6 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	color: white;
+}
+
+li,a {
+	color: white;
+	font-size: 1.5rem;
+	list-style-type: none;
+}
+
+#bild {
+	width: 20rem;
+	height: 15rem;
+}
+
+.c9stream {
+	//border: 1px solid red;
+	margin-top: 2rem;
+	
+}
+
+.responsive-video {
+position: relative;
+/* padding-bottom: 56.25%;
+padding-top: 60px; */
+overflow: hidden;
+}
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+
+width: 400px;
+height: 300px;
+}
