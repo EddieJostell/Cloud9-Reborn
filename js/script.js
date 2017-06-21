@@ -37,7 +37,7 @@ const c9Module = (() => {
 			console.log("working yet still?");
 		var matchDiv = `
 			<div class="col-lg-3 col-md-6 col-sm-12">
-			<div class="showNews card">
+			<div class="showScore card">
 			<img class="card-img-top img-responsive pt-15" src="">
 			<div class="card-block">
 			<h5 class="card-title">Home: ${match.Home}</h5>
