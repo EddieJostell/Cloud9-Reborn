@@ -14,6 +14,12 @@ const c9Module = (() => {
 			});
 		},
 		
+		hideCollapsedNavbar: () => {
+			$(document).on('click',function(){
+				$('.collapse').collapse('hide');
+			})
+		},
+		
 		getResultsFromDatabase: () => {
 			fetch('http://localhost:3000/matches') 
 			.then((response) => {
@@ -35,7 +41,7 @@ const c9Module = (() => {
 		
 		showResultsOnHtml: (match) => {
 			console.log("working yet still?");
-		var matchDiv = `
+			var matchDiv = `
 			<div class="col-lg-3 col-md-6 col-sm-12">
 			<div class="showScore card">
 			<img class="card-img-top img-responsive pt-15" src="">
@@ -62,6 +68,7 @@ const c9Module = (() => {
 				c9Module.pageScrollFunction();
 				c9Module.registerEventHandlers();
 				c9Module.getResultsFromDatabase();
+				c9Module.hideCollapsedNavbar();
 			});
 		})()
 		
