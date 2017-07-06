@@ -43,6 +43,24 @@ const c9Module = (() => {
 			console.log("working yet still?");
 			var matchDiv = `
 			<div class="col-lg-3 col-md-6 col-sm-12">
+			<div class="showScore">
+			<table>
+			<tr><th>Home</th> <th>Away</th> <th>Map</th> <th>Score</th></tr>
+			<tr> <td class='info'>${match.Home}</td> <td class='info'>${match.Away}</td> <td class='info'>${match.Map}</td> <td class='info'>${match.Score}</td></tr>"
+			</table>
+			</div>
+			</div>`;
+			resultOutput.innerHTML += matchDiv;
+
+			/*"<table>";
+			"<tr> <th>Maker</th> <th>Model</th> <th>Speed</th> <th>RAM</th> <th>HD</th> <th>Price</th> </tr>";
+			
+
+			"<tr> <td class='$color'>$maker</td> <td class='$color'>$model</td> <td class='$color'>$speed</td> <td class='$color'>$ram</td> <td class='$color'>$hd</td> <td class='$color'>$price</td> </tr>";
+
+			"</table>";*/
+
+			/*<div class="col-lg-3 col-md-6 col-sm-12">
 			<div class="showScore card">
 			<img class="card-img-top img-responsive pt-15" src="">
 			<div class="card-block">
@@ -53,8 +71,8 @@ const c9Module = (() => {
 			<br>
 			</div>
 			</div>
-			</div>`;
-			resultOutput.innerHTML += matchDiv;
+			</div>*/
+
 		},
 		
 		registerEventHandlers: function() {
