@@ -15,3 +15,34 @@ Denial CSGO	Cloud9 HyperX	de_season	Loss	16-10	Sep 9 14
 Reliable	Cloud9 HyperX	de_dust2	Rescheduled	Score	Sep 11 14
 Cloud9 HyperX	Team iBUYPOWER	de_dust2	Upcoming	Score	Sep 16 14
 Cloud9 HyperX	eLevate	de_train	Upcoming	Score	Sep 22 14
+
+ESL Pro League Season 4 - NA
+
+Home Away Map Result Score Date
+
+Cloud9 | SK-Gaming | -/- | Win by WO | 1-0 | Oct 13 2016 |
+SK-Gaming | Cloud9 | -/- | Win by WO | 0-1 | Oct 13 2016 |
+Selfless | Cloud9 | de_overpass | Win |12-16 | Sep 28 2016 |
+Cloud9 | Selfless | de_mirage | Win | 16-12 | Sep 28 2016 |
+Winterfox | Cloud9 | de_mirage | Win | 7-16 | Sep 26 2016 |
+Cloud9 | Winterfox | de_dust2 | Win | 16-11 | Sep 26 2016 |
+NRG | Cloud9 | de_train | Win | 10-16 | Sep 25 2016 |
+Cloud9 | NRG | de_cache | Win | 16-5 | Sep 25 2016 |
+Echo Fox | Cloud9 | de_dust2 | Win | 8-16 | Sep 21 2016 |
+Cloud9 | Echo Fox | de_dust2 | Loss | 12-16 | Sep 21 2016 |
+Splyce | Cloud9 | de_mirage | Win | 2-16 | Sep 21 2016 |
+Cloud9 | Splyce | de_train | Win | 16-13 | Sep 21 2016 | 
+eUnited | Cloud9 | de_mirage | Win | 8-16 | Aug 31 2016 |
+Cloud9 | eUnited | de_overpass | Win | 16-6 | Aug 31 2016 |
+Renegades | Cloud9 | de_mirage | Win | 16-19 | Aug 30 2016 |
+Cloud9 | Renegades | de_mirage | Win | 16-12 | Aug 30 2016 |
+CLG | Cloud9 | de_train | Win | 10-16 | Aug 26 2016 |
+Cloud9 | CLG | de_mirage | Win | 16-11 | Aug 26 2016 |
+compLexity | Cloud9 | de_train | Win | 5-16 | Aug 25 2016 |
+Cloud9 | compLexity | de_overpass | Win | 16-9 | Aug 25 2016 |
+OpTic | Cloud9 | de_cache | Win | 12-16 | Aug 22 2016 |
+Cloud9 | OpTic | de_train | Win | 16-3 | Aug 22 2016 |
+Immortals | Cloud9 | de_overpass | Win | 14-16 | Aug 19 2016 |
+Cloud9 | Immortals | de_cbble | Win | 16-5 | Aug 19 2016 |
+Liquid | Cloud9 | de_dust2 | Win | 10-16 | Aug 18 2016 |
+Cloud9 | Liquid | de_cbble | Win | 16-8 | Aug 18 2016 | 
