@@ -46,7 +46,7 @@ const c9Module = (() => {
 			<div class="showScore">
 			<table>
 			<tr><th>Home</th> <th>Away</th> <th>Map</th> <th>Score</th></tr>
-			<tr> <td class='info'>${match.Home}</td> <td class='info'>${match.Away}</td> <td class='info'>${match.Map}</td> <td class='info'>${match.Score}</td></tr>"
+			<tr> <td class='info'>${match.Home}</td> <td class='info'>${match.Away}</td> <td class='info'>${match.Map}</td> <td class='info'>${match.Result}</td> <td class='info'>${match.Score}</td> <td class='info'>${match.Date}</td></tr>"
 			</table>
 			</div>
 			</div>`;
@@ -76,7 +76,7 @@ const c9Module = (() => {
 		},
 		
 		registerEventHandlers: function() {
-			document.getElementById("c9Games").addEventListener("click", c9Module.getResultsFromDatabase);
+			/*document.getElementById("c9Games").addEventListener("click", c9Module.getResultsFromDatabase);*/
 			console.log("button working?");
 		},
 		
