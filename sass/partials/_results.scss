@@ -3,12 +3,19 @@
 	margin-top: 1rem;
 }
 
-.showScore {
-        th {
-        	color: white;
-        }
-
-	td {
+.table {
+	/* border: 3px solid white; */
+     thead tr th {
+     	min-width: 50px;
+     }
+	.info {
 		color: white;
 	}
 }
+
+
+
+
+
+
+
