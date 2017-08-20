@@ -70,10 +70,37 @@ const c9Module = (() => {
 			</div>`;
 			resultOutput.innerHTML += matchDiv;
 		},
+
+		contactFormFunction: () => {
+			$(document).ready(function(){ 
+				$('#characterLeft').text('140 characters left');
+				$('#message').keydown(function () {
+					var max = 140;
+					var len = $(this).val().length;
+					if (len >= max) {
+						$('#characterLeft').text('You have reached the limit');
+						$('#characterLeft').addClass('red');
+						$('#btnSubmit').addClass('disabled');            
+					} 
+					else {
+						var ch = max - len;
+						$('#characterLeft').text(ch + ' characters left');
+						$('#btnSubmit').removeClass('disabled');
+						$('#characterLeft').removeClass('red');            
+					}
+				});    
+
+				$(".submit").click(function () {
+					
+					$("form").trigger("reset");
+				});
+			});
+
+		},
 		
 		registerEventHandlers: function() {
 			/*document.getElementById("c9Games").addEventListener("click", c9Module.getResultsFromDatabase);*/
-			console.log("button working?");
+			/*console.log("button working?");*/
 		},
 		
 		//Self-invoking function that will load the DOM content, first page, loading indicator, show if there are any saved articles in the DB and activate all the EventListeners.
@@ -83,6 +110,7 @@ const c9Module = (() => {
 				c9Module.registerEventHandlers();
 				c9Module.getResultsFromDatabase();
 				c9Module.hideCollapsedNavbar();
+				c9Module.contactFormFunction();
 			});
 		})()
 		
