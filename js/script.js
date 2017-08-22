@@ -21,7 +21,7 @@ const c9Module = (() => {
 		},
 		
 		getResultsFromDatabase: () => {
-			fetch('http://localhost:3000/matches') 
+			fetch('https://c9results.herokuapp.com/matches') 
 			.then((response) => {
 				console.log("working?");
 				return response.json();
